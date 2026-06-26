@@ -1,0 +1,100 @@
+{
+    "bladers":
+    [
+        {
+            "id": 0,
+            "names": ["danoblader", "dano"],
+            "score":0
+        },
+        {
+            "id": 1,
+            "names": ["aldo z", "aldo"],
+            "score":0
+        },
+        {
+            "id": 2,
+            "names": ["leopon", "leo"],
+            "score":0
+        },
+        {
+            "id": 3,
+            "names": ["jagger", "jager"],
+            "score":0
+        },
+        {
+            "id": 4,
+            "names": ["dante"],
+            "score":0
+        },
+        {
+            "id": 5,
+            "names": ["gabo"],
+            "score":0
+        },
+        {
+            "id": 6,
+            "names": ["ghost"],
+            "score":0
+        },
+        {
+            "id": 7,
+            "names": ["kay", "ema", "emma", "emmanuel", "emanuel"],
+            "score":0
+        },
+        {
+            "id": 8,
+            "names": ["tio", "tío"],
+            "score":0
+        },
+        {
+            "id": 9,
+            "names": ["yahel"],
+            "score":0
+        },
+        {
+            "id": 10,
+            "names": ["aramis"],
+            "score":0
+        },
+        {
+            "id": 11,
+            "names": ["toño"],
+            "score":0
+        },
+        {
+            "id": 12,
+            "names": ["pedro"],
+            "score":0
+        },
+        {
+            "id": 13,
+            "names": ["boing"],
+            "score":0
+        },
+        {
+            "id": 14,
+            "names": ["mike", "spider mike", "digi"],
+            "score":0
+        },
+        {
+            "id": 15,
+            "names": ["ringo"],
+            "score":0
+        },
+        {
+            "id": 16,
+            "names": ["erik", "malo", "erik malo"],
+            "score":0
+        },
+        {
+            "id": 17,
+            "names": ["jess", "arvizu"],
+            "score":0
+        },
+        {
+            "id": 18,
+            "names": ["angel"],
+            "score":0
+        }
+    ]
+}
