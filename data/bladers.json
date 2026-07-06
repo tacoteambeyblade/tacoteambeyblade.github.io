@@ -4,39 +4,77 @@
             "danoblader",
             "dano"
         ],
-        "score": 23
+        "score_tl": 23,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Octubre",
+            "m": 10,
+            "d": 5
+        }
+
     },
     {
         "names": [
             "leopon",
             "leo"
         ],
-        "score": 20
+        "score_tl": 20,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Junio",
+            "m": 6,
+            "d": 6
+        }
     },
     {
         "names": [
             "jagger",
             "jager"
         ],
-        "score": 26
+        "score_tl": 26,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Julio",
+            "m": 7,
+            "d": 3
+        }
     },
     {
         "names": [
             "dante"
         ],
-        "score": 19
+        "score_tl": 19,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Julio",
+            "m": 7,
+            "d": 18
+        }
     },
     {
         "names": [
-            "gabo"
+            "gabo",
+            "vader"
         ],
-        "score": 22
+        "score_tl": 22,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Febrero",
+            "m": 2,
+            "d": 9
+        }
     },
     {
         "names": [
             "ghost"
         ],
-        "score": 17
+        "score_tl": 17,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Diciembre",
+            "m": 12,
+            "d": 31
+        }
     },
     {
         "names": [
@@ -46,49 +84,158 @@
             "emmanuel",
             "emanuel"
         ],
-        "score": 19
+        "score_tl": 19,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Agosto",
+            "m": 8,
+            "d": 6
+        }
     },
     {
         "names": [
             "tio",
             "tío"
         ],
-        "score": 17
+        "score_tl": 17,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Septiembre",
+            "m": 9,
+            "d": 9
+        }
     },
     {
         "names": [
             "yahel"
         ],
-        "score": 16
+        "score_tl": 16,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Febrero",
+            "m": 2,
+            "d": 6
+        }
     },
     {
         "names": [
             "aramis"
         ],
-        "score": 15
+        "score_tl": 15,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Enero",
+            "m": 1,
+            "d": 10
+        }
     },
     {
         "names": [
             "toño"
         ],
-        "score": 18
+        "score_tl": 18,
+        "score_tf": 0,
+        "birthday":{
+            "M": "No",
+            "m": 0,
+            "d": 0
+        }
     },
     {
         "names": [
             "pedro"
         ],
-        "score": 13
+        "score_tl": 13,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Junio",
+            "m": 6,
+            "d": 29
+        }
     },
     {
         "names": [
             "boing"
         ],
-        "score": 21
+        "score_tl": 21,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Diciembre",
+            "m": 12,
+            "d": 19
+        }
     },
     {
         "names": [
             "angel"
         ],
-        "score": 21
+        "score_tl": 21,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Febrero",
+            "m": 2,
+            "d": 12
+        }
+    },
+    {
+        "names": [
+            "aldo z",
+            "aldodarc"
+        ],
+        "score_tl": 0,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Junio",
+            "m": 6,
+            "d": 28
+        }
+    },
+    {
+        "names": [
+            "mario leal"
+        ],
+        "score_tl": 0,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Octubre",
+            "m": 10,
+            "d": 8
+        }
+    },
+    {
+        "names": [
+            "ezequiel"
+        ],
+        "score_tl": 0,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Mayo",
+            "m": 5,
+            "d": 20
+        }
+    },
+    {
+        "names": [
+            "choris"
+        ],
+        "score_tl": 0,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Noviembre",
+            "m": 11,
+            "d": 28
+        }
+    },
+    {
+        "names": [
+            "evan"
+        ],
+        "score_tl": 0,
+        "score_tf": 0,
+        "birthday":{
+            "M": "Marzo",
+            "m": 3,
+            "d": 3
+        }
     }
 ]
