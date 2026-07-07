@@ -1,5 +1,4 @@
 import BLADERS from "../data/bladers.json" with { type: "json"}
-window.location.reload(true)
 
 function sortRanking(){
     // ... spread operator to not modify the original values
