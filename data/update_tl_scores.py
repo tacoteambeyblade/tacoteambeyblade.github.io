@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 
 FILE_BLADERS = "bladers.json"
-FILE_RESULTS = "TLF01B01.json"
+FILE_RESULTS = "TLF0102B.json"
 POINTS_PER_BATTLE = 1 # Extra point per battle played
 
 def loadFile(file_name: str):
@@ -38,6 +38,7 @@ def getScoresByBlader(matches, participants):
 
         #Renaming the key; pop method removes the old key and returns the value assigned
         scores[name] = scores.pop(id)
+        print(name)
 
     return scores
 
@@ -47,7 +48,7 @@ def assignPointsScored(scores, bladers):
     for blader in bladers:
         for name in blader["names"]:
             if name in scores:
-                blader["score"] = blader["score"] + scores[name]
+                blader["score_tl"] = blader["score_tl"] + scores[name]
                 break # Avoid using the remaining names
             else:
                 print(name, "no existe")
@@ -55,8 +56,9 @@ def assignPointsScored(scores, bladers):
     return bladers
 
 def saveScores(scores: dict, filename: str) -> None:
+    bladers = {"bladers": scores}
     with Path(filename).open('w', encoding="utf-8") as f:
-        json.dump(scores, f, indent=4, ensure_ascii=False)
+        json.dump(bladers, f, indent=4, ensure_ascii=False)
 
 
 def main():

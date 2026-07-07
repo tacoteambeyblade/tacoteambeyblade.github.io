@@ -1,8 +1,9 @@
-import bladers from "../data/bladers.json" with { type: "json"}
+import BLADERS from "../data/bladers.json" with { type: "json"}
 
 function sortRanking(){
     // ... spread operator to not modify the original values
     // uses - due sort only uses positive and negative values not booleans
+    const bladers = BLADERS["bladers"]
     const ranking = [...bladers].sort((a,b) => b.score_tl - a.score_tl)
 
     const container = document.getElementById("ranking");
