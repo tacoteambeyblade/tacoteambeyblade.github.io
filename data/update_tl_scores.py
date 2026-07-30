@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 
 FILE_BLADERS = "bladers.json"
-FILE_RESULTS = "TLF0102B.json"
+FILE_RESULTS = "TLF0201B.json"
 POINTS_PER_BATTLE = 1 # Extra point per battle played
 
 def loadFile(file_name: str):
