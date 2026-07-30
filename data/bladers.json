@@ -31,7 +31,7 @@
                 "jagger",
                 "jager"
             ],
-            "score_tl": 77,
+            "score_tl": 108,
             "score_tf": 0,
             "birthday": {
                 "M": "Julio",
@@ -56,7 +56,7 @@
                 "gabo",
                 "vader"
             ],
-            "score_tl": 81,
+            "score_tl": 98,
             "score_tf": 0,
             "birthday": {
                 "M": "Febrero",
@@ -68,7 +68,7 @@
             "names": [
                 "ghost"
             ],
-            "score_tl": 38,
+            "score_tl": 72,
             "score_tf": 0,
             "birthday": {
                 "M": "Diciembre",
@@ -84,7 +84,7 @@
                 "emmanuel",
                 "emanuel"
             ],
-            "score_tl": 67,
+            "score_tl": 91,
             "score_tf": 0,
             "birthday": {
                 "M": "Agosto",
@@ -107,9 +107,10 @@
         },
         {
             "names": [
-                "yahel"
+                "yahel",
+                "yael"
             ],
-            "score_tl": 16,
+            "score_tl": 22,
             "score_tf": 0,
             "birthday": {
                 "M": "Febrero",
@@ -145,7 +146,7 @@
             "names": [
                 "pedro"
             ],
-            "score_tl": 13,
+            "score_tl": 28,
             "score_tf": 0,
             "birthday": {
                 "M": "Junio",
@@ -157,7 +158,7 @@
             "names": [
                 "boing"
             ],
-            "score_tl": 57,
+            "score_tl": 77,
             "score_tf": 0,
             "birthday": {
                 "M": "Diciembre",
@@ -169,7 +170,7 @@
             "names": [
                 "angel"
             ],
-            "score_tl": 58,
+            "score_tl": 77,
             "score_tf": 0,
             "birthday": {
                 "M": "Febrero",
@@ -206,7 +207,7 @@
             "names": [
                 "ezequiel"
             ],
-            "score_tl": 0,
+            "score_tl": 10,
             "score_tf": 0,
             "birthday": {
                 "M": "Mayo",
@@ -228,9 +229,10 @@
         },
         {
             "names": [
-                "evan"
+                "evan",
+                "meme"
             ],
-            "score_tl": 0,
+            "score_tl": 15,
             "score_tf": 0,
             "birthday": {
                 "M": "Marzo",
@@ -240,9 +242,10 @@
         },
         {
             "names": [
-                "aldo p"
+                "aldo p",
+                "aldo martinez"
             ],
-            "score_tl": 23,
+            "score_tl": 36,
             "score_tf": 0,
             "birthday": {
                 "M": "No",
@@ -254,7 +257,7 @@
             "names": [
                 "alain"
             ],
-            "score_tl": 25,
+            "score_tl": 38,
             "score_tf": 0,
             "birthday": {
                 "M": "No",
