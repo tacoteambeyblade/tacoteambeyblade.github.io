@@ -5,6 +5,7 @@
                 "danoblader",
                 "dano"
             ],
+            "score_tr": 0,
             "score_tl": 76,
             "score_tf": 0,
             "birthday": {
@@ -18,6 +19,7 @@
                 "leopon",
                 "leo"
             ],
+            "score_tr": 0,
             "score_tl": 87,
             "score_tf": 0,
             "birthday": {
@@ -31,6 +33,7 @@
                 "jagger",
                 "jager"
             ],
+            "score_tr": 0,
             "score_tl": 108,
             "score_tf": 0,
             "birthday": {
@@ -43,6 +46,7 @@
             "names": [
                 "dante"
             ],
+            "score_tr": 0,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -56,6 +60,7 @@
                 "gabo",
                 "vader"
             ],
+            "score_tr": 0,
             "score_tl": 98,
             "score_tf": 0,
             "birthday": {
@@ -68,6 +73,7 @@
             "names": [
                 "ghost"
             ],
+            "score_tr": 0,
             "score_tl": 72,
             "score_tf": 0,
             "birthday": {
@@ -84,6 +90,7 @@
                 "emmanuel",
                 "emanuel"
             ],
+            "score_tr": 0,
             "score_tl": 91,
             "score_tf": 0,
             "birthday": {
@@ -97,6 +104,7 @@
                 "tio",
                 "tío"
             ],
+            "score_tr": 0,
             "score_tl": 17,
             "score_tf": 0,
             "birthday": {
@@ -110,6 +118,7 @@
                 "yahel",
                 "yael"
             ],
+            "score_tr": 0,
             "score_tl": 22,
             "score_tf": 0,
             "birthday": {
@@ -122,6 +131,7 @@
             "names": [
                 "aramis"
             ],
+            "score_tr": 0,
             "score_tl": 42,
             "score_tf": 0,
             "birthday": {
@@ -134,6 +144,7 @@
             "names": [
                 "toño"
             ],
+            "score_tr": 0,
             "score_tl": 18,
             "score_tf": 0,
             "birthday": {
@@ -146,6 +157,7 @@
             "names": [
                 "pedro"
             ],
+            "score_tr": 0,
             "score_tl": 28,
             "score_tf": 0,
             "birthday": {
@@ -158,6 +170,7 @@
             "names": [
                 "boing"
             ],
+            "score_tr": 0,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -170,6 +183,7 @@
             "names": [
                 "angel"
             ],
+            "score_tr": 0,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -183,6 +197,7 @@
                 "aldo z",
                 "aldodarc"
             ],
+            "score_tr": 0,
             "score_tl": 36,
             "score_tf": 0,
             "birthday": {
@@ -195,6 +210,7 @@
             "names": [
                 "mario leal"
             ],
+            "score_tr": 0,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -207,6 +223,7 @@
             "names": [
                 "ezequiel"
             ],
+            "score_tr": 0,
             "score_tl": 10,
             "score_tf": 0,
             "birthday": {
@@ -219,6 +236,7 @@
             "names": [
                 "choris"
             ],
+            "score_tr": 0,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -232,6 +250,7 @@
                 "evan",
                 "meme"
             ],
+            "score_tr": 0,
             "score_tl": 15,
             "score_tf": 0,
             "birthday": {
@@ -245,6 +264,7 @@
                 "aldo p",
                 "aldo martinez"
             ],
+            "score_tr": 0,
             "score_tl": 36,
             "score_tf": 0,
             "birthday": {
@@ -257,7 +277,35 @@
             "names": [
                 "alain"
             ],
+            "score_tr": 0,
             "score_tl": 38,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "azteca",
+                "blade azteca"
+            ],
+            "score_tr": 0,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "lael"
+            ],
+            "score_tr": 0,
+            "score_tl": 0,
             "score_tf": 0,
             "birthday": {
                 "M": "No",
