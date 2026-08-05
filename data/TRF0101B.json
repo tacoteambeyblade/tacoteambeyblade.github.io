@@ -2667,26 +2667,26 @@
                 "state": "complete",
                 "round": 6,
                 "identifier": "AM",
-                "scores": "6 - 0",
+                "scores": "0 - 6",
                 "suggested_play_order": 39,
                 "location": null,
                 "score_in_sets": [
                     [
-                        6,
-                        0
+                        0,
+                        6
                     ]
                 ],
                 "points_by_participant": [
                     {
                         "participant_id": 300846320,
                         "scores": [
-                            6
+                            0
                         ]
                     },
                     {
                         "participant_id": 300846445,
                         "scores": [
-                            0
+                            6
                         ]
                     }
                 ],
@@ -2696,7 +2696,7 @@
                     "updated_at": "2026-08-02T00:08:59.250Z",
                     "underway_at": null
                 },
-                "winner_id": 300846320,
+                "winner_id": 300846445,
                 "tie": false,
                 "scheduled_time": null
             },
@@ -3068,7 +3068,7 @@
                         ]
                     },
                     {
-                        "participant_id": 300846320,
+                        "participant_id": 300846445,
                         "scores": [
                             2
                         ]
