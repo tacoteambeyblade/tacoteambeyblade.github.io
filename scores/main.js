@@ -4,12 +4,12 @@ function sortRanking(){
     // ... spread operator to not modify the original values
     // uses - due sort only uses positive and negative values not booleans
     const bladers = BLADERS["bladers"]
-    const ranking = [...bladers].sort((a,b) => b.score_tl - a.score_tl)
+    const ranking = [...bladers].sort((a,b) => b.score_tr - a.score_tr)
 
     const container = document.getElementById("ranking");
 
     ranking.forEach((blader, index) =>{
-        console.log(`${index+1}. ${blader.names[0]} -> ${blader.score_tl}`)
+        console.log(`${index+1}. ${blader.names[0]} -> ${blader.score_tr}`)
     })
 
     let shared_ranking = []
@@ -17,9 +17,9 @@ function sortRanking(){
     let past = null 
 
     ranking.forEach((blader, index) => {
-        if(blader.score_tl !== past){
+        if(blader.score_tr !== past){
             curent = index+1
-            past = blader.score_tl
+            past = blader.score_tr
         }
 
         shared_ranking.push({curent, ...blader})
@@ -30,7 +30,7 @@ function sortRanking(){
 
         item.innerHTML = `
             <strong>${curent}. ${blader.names[0].toUpperCase()}</strong>
-            <span>${blader.score_tl} pts</span>
+            <span>${blader.score_tr} pts</span>
         `;
 
         container.appendChild(item);
