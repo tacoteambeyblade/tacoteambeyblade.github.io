@@ -19,7 +19,13 @@
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/e/e2/Cobalt_Dragoon_Deluxe_Left-Spin_String_Launcher_Set_Box.jpeg"
         },
         {
-            "name":"Reaper Incentdio T 4-70 K - Hasbro",
+            "name":"Dual Pack Miles Morales y Green Goblin - Hasbro",
+            "price": 500,
+            "quantity": 1,
+            "image_url": "https://static.wikia.nocookie.net/beyblade/images/1/1d/Miles_Morales_and_Green_Goblin_Box.jpeg"
+        },
+        {
+            "name":"Reaper Incendio T 4-70 K - Hasbro",
             "price": 450,
             "quantity": 1,
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/7/7c/Reaper_Incendio_T_4-70K_Box.jpeg"
@@ -53,12 +59,6 @@
             "price": 300,
             "quantity": 5,
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/b/be/Beyblade_X_Winder_Launcher_Box.jpeg"
-        },
-        {
-            "name":"Dual Pack Miles Morales y Green Goblin - Hasbro",
-            "price": 300,
-            "quantity": 1,
-            "image_url": "https://static.wikia.nocookie.net/beyblade/images/1/1d/Miles_Morales_and_Green_Goblin_Box.jpeg"
         },
         {
             "name":"Keel Shark 1-60 Q - Hasbro",
