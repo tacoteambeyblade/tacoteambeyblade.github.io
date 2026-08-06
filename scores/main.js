@@ -17,6 +17,9 @@ function sortRanking(){
     let past = null 
 
     ranking.forEach((blader, index) => {
+        // Validation to avoid bladers with 0pts (0pts means blader not registered) 
+        if(blader.score_tr <= 0) return
+
         if(blader.score_tr !== past){
             curent = index+1
             past = blader.score_tr
