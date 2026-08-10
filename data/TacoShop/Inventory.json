@@ -3,19 +3,19 @@
         {
             "name":"Emperor Deck Set - HASBRO",
             "price": 950,
-            "quantity": 5,
+            "quantity": 4,
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/e/e3/X-treme_Battlers_Pack_Box.jpeg"
         },
         {
             "name":"Soar Phoenix 9-60 GF Con String Launcher - Hasbro",
             "price": 500,
-            "quantity": 3,
+            "quantity": 2,
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/2/2a/Soar_Phoenix_Deluxe_String_Launcher_Set_Box.jpeg"
         },
         {
             "name":"Cobalt Dragoon 2-60 C Con String Launcher - Hasbro",
             "price": 500,
-            "quantity": 2,
+            "quantity": 1,
             "image_url": "https://static.wikia.nocookie.net/beyblade/images/e/e2/Cobalt_Dragoon_Deluxe_Left-Spin_String_Launcher_Set_Box.jpeg"
         },
         {
