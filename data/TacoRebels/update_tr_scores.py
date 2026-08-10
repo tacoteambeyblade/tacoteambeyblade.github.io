@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 
 TOURNAMENT_TYPE = "R" #L=League, F=Fun, R=Rebels
-DATE = "01" #Fecha
+DATE = "02" #Fecha
 PART = "1" #1=single 2=double
 SEASON = "B" #B=Bistec
 
@@ -46,7 +46,7 @@ def getScoresByBlader(matches, participants):
 
         #Renaming the key; pop method removes the old key and returns the value assigned
         scores[name] = scores.pop(id)
-        print(name)
+        print(name, "\t", scores[name])
 
     return scores
 
