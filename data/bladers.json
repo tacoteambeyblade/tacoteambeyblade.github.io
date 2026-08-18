@@ -2,8 +2,8 @@
     "bladers": [
         {
             "names": [
-                "danoblader",
-                "dano"
+                "dano",
+                "danoblader"
             ],
             "score_tr": 77,
             "score_tl": 76,
@@ -57,8 +57,9 @@
         },
         {
             "names": [
-                "gabo",
-                "vader"
+                "vader",
+                "gabo"
+                
             ],
             "score_tr": 107,
             "score_tl": 98,
@@ -115,8 +116,8 @@
         },
         {
             "names": [
-                "yahel",
-                "yael"
+                "yael",
+                "yahel"
             ],
             "score_tr": 39,
             "score_tl": 22,
@@ -194,8 +195,8 @@
         },
         {
             "names": [
-                "aldo z",
-                "aldodarc"
+                "aldodarc",
+                "aldo z"
             ],
             "score_tr": 104,
             "score_tl": 36,
