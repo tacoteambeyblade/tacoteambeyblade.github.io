@@ -31,6 +31,7 @@
         {
             "names": [
                 "jagger",
+                "jeagger",
                 "jager"
             ],
             "score_tr": 64,
@@ -290,7 +291,8 @@
         {
             "names": [
                 "azteca",
-                "blade azteca"
+                "blader azteca",
+                "azteca blader"
             ],
             "score_tr": 46,
             "score_tl": 0,
@@ -337,6 +339,32 @@
                 "digimon"
             ],
             "score_tr": 27,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "erasmo"
+            ],
+            "score_tr": 0,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "ian"
+            ],
+            "score_tr": 0,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
