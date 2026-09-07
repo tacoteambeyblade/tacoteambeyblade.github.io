@@ -46,7 +46,6 @@ def getScoresByBlader(matches, participants):
 
         #Renaming the key; pop method removes the old key and returns the value assigned
         scores[name] = scores.pop(id)
-        print(name, "\t", scores[name])
 
     return scores
 
@@ -68,6 +67,17 @@ def saveScores(scores: dict, filename: str) -> None:
     with Path(filename).open('w', encoding="utf-8") as f:
         json.dump(bladers, f, indent=4, ensure_ascii=False)
 
+def printSortedScores(scores):
+    sorted_scores = {k: v for k, v in sorted(scores.items(), key=lambda item: item[1], reverse=True)}
+    pos = 0
+    count = 0
+    value = 256 #A big value to start the comparation
+    for name in sorted_scores:
+        if(value != sorted_scores[name]):
+            pos = count+1
+            value = sorted_scores[name]
+        count = count+1
+        print(pos, "\t", name, "\t", sorted_scores[name])
 
 def main():
     bladers = loadFile(FILE_BLADERS)["bladers"]
@@ -78,6 +88,7 @@ def main():
     bladers = assignPointsScored(scores_by_blader, bladers)
 
     saveScores(bladers, FILE_BLADERS)
+    printSortedScores(scores_by_blader)
 
 if(__name__ == "__main__"):
     main()
