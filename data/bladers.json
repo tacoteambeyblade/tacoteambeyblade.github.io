@@ -56,6 +56,9 @@
             "names": [
                 "dante"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 68,
             "score_tl": 77,
             "score_tf": 0,
@@ -123,6 +126,9 @@
                 "tio",
                 "tío"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 0,
             "score_tl": 17,
             "score_tf": 0,
@@ -137,6 +143,9 @@
                 "yael",
                 "yahel"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 39,
             "score_tl": 22,
             "score_tf": 0,
@@ -166,6 +175,9 @@
             "names": [
                 "toño"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 0,
             "score_tl": 18,
             "score_tf": 0,
@@ -179,6 +191,9 @@
             "names": [
                 "pedro"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 0,
             "score_tl": 28,
             "score_tf": 0,
@@ -192,6 +207,9 @@
             "names": [
                 "boing"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 25,
             "score_tl": 77,
             "score_tf": 0,
@@ -238,6 +256,9 @@
             "names": [
                 "mario leal"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 0,
             "score_tl": 0,
             "score_tf": 0,
@@ -251,6 +272,9 @@
             "names": [
                 "ezequiel"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 61,
             "score_tl": 10,
             "score_tf": 0,
@@ -264,6 +288,9 @@
             "names": [
                 "choris"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 20,
             "score_tl": 0,
             "score_tf": 0,
@@ -278,6 +305,9 @@
                 "evan",
                 "meme"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 53,
             "score_tl": 15,
             "score_tf": 0,
@@ -292,6 +322,9 @@
                 "aldo p",
                 "aldo martinez"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 66,
             "score_tl": 36,
             "score_tf": 0,
@@ -323,6 +356,9 @@
                 "blader azteca",
                 "azteca blader"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 74,
             "score_tl": 0,
             "score_tf": 0,
@@ -336,6 +372,9 @@
             "names": [
                 "lael"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 69,
             "score_tl": 0,
             "score_tf": 0,
@@ -351,6 +390,9 @@
                 "jessarvizu",
                 "arvizu"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 57,
             "score_tl": 0,
             "score_tf": 0,
@@ -367,6 +409,9 @@
                 "digi",
                 "digimon"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 27,
             "score_tl": 0,
             "score_tf": 0,
@@ -380,6 +425,9 @@
             "names": [
                 "erasmo"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 29,
             "score_tl": 0,
             "score_tf": 0,
@@ -393,6 +441,9 @@
             "names": [
                 "ian"
             ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 51,
             "score_tl": 0,
             "score_tf": 0,
