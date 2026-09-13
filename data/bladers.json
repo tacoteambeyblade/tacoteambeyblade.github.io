@@ -8,7 +8,7 @@
             "is_taco": 1,
             "taco_name": "arrachera",
             "score_tc": 95,
-            "score_tr": 126,
+            "score_tr": 170,
             "score_tl": 76,
             "score_tf": 0,
             "birthday": {
@@ -25,7 +25,7 @@
             "is_taco": 1,
             "taco_name": "pastor negro",
             "score_tc": 97,
-            "score_tr": 117,
+            "score_tr": 174,
             "score_tl": 87,
             "score_tf": 0,
             "birthday": {
@@ -43,7 +43,7 @@
             "is_taco": 1,
             "taco_name": "sirloin",
             "score_tc": 96,
-            "score_tr": 90,
+            "score_tr": 116,
             "score_tl": 108,
             "score_tf": 0,
             "birthday": {
@@ -59,7 +59,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 68,
+            "score_tr": 101,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -76,7 +76,7 @@
             "is_taco": 1,
             "taco_name": "ronin",
             "score_tc": 102,
-            "score_tr": 143,
+            "score_tr": 176,
             "score_tl": 98,
             "score_tf": 0,
             "birthday": {
@@ -92,7 +92,7 @@
             "is_taco": 1,
             "taco_name": "suaperro",
             "score_tc": 94,
-            "score_tr": 117,
+            "score_tr": 144,
             "score_tl": 72,
             "score_tf": 0,
             "birthday": {
@@ -194,7 +194,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 0,
+            "score_tr": 25,
             "score_tl": 28,
             "score_tf": 0,
             "birthday": {
@@ -211,7 +211,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 25,
+            "score_tr": 46,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -227,7 +227,7 @@
             "is_taco": 1,
             "taco_name": "canasta",
             "score_tc": 97,
-            "score_tr": 119,
+            "score_tr": 151,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -244,7 +244,7 @@
             "is_taco": 1,
             "taco_name": "pastor",
             "score_tc": 108,
-            "score_tr": 127,
+            "score_tr": 175,
             "score_tl": 36,
             "score_tf": 0,
             "birthday": {
@@ -326,7 +326,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 66,
+            "score_tr": 79,
             "score_tl": 36,
             "score_tf": 0,
             "birthday": {
@@ -342,7 +342,7 @@
             "is_taco": 1,
             "taco_name": "longaniza",
             "score_tc": 105,
-            "score_tr": 123,
+            "score_tr": 149,
             "score_tl": 38,
             "score_tf": 0,
             "birthday": {
@@ -360,7 +360,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 74,
+            "score_tr": 122,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -376,7 +376,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 69,
+            "score_tr": 98,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -413,7 +413,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 27,
+            "score_tr": 48,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -445,7 +445,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 51,
+            "score_tr": 87,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -461,7 +461,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 0,
+            "score_tr": 45,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
