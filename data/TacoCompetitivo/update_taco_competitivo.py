@@ -2,7 +2,7 @@ from pathlib import Path
 import json
 
 TOURNAMENT_TYPE = "R" #L=League, F=Fun, R=Rebels
-DATE = "05" #Fecha
+DATE = "06" #Fecha
 PART = "1" #1=single 2=double
 SEASON = "B" #B=Bistec
 
