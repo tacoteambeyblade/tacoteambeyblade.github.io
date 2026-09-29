@@ -321,7 +321,8 @@
         {
             "names": [
                 "aldo p",
-                "aldo martinez"
+                "aldo martinez",
+                "aldo m"
             ],
             "is_taco": 0,
             "taco_name": "",
@@ -462,6 +463,38 @@
             "taco_name": "",
             "score_tc": 0,
             "score_tr": 45,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "dumer"
+            ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
+            "score_tr": 0,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
+        },
+        {
+            "names": [
+                "ezequiel sr"
+            ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
+            "score_tr": 0,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
