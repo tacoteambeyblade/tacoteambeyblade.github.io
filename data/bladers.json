@@ -109,9 +109,9 @@
                 "emmanuel",
                 "emanuel"
             ],
-            "is_taco": 1,
-            "taco_name": "tripa",
-            "score_tc": 84,
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
             "score_tr": 64,
             "score_tl": 91,
             "score_tf": 0,
@@ -273,9 +273,9 @@
             "names": [
                 "ezequiel"
             ],
-            "is_taco": 0,
-            "taco_name": "",
-            "score_tc": 0,
+            "is_taco": 1,
+            "taco_name": "ezquivel",
+            "score_tc": 100,
             "score_tr": 84,
             "score_tl": 10,
             "score_tf": 0,
@@ -375,7 +375,7 @@
                 "lael"
             ],
             "is_taco": 1,
-            "taco_name": "lael",
+            "taco_name": "Cecina",
             "score_tc": 102,
             "score_tr": 98,
             "score_tl": 0,
