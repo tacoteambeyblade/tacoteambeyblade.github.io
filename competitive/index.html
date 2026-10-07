@@ -8,8 +8,60 @@
 <body>
     <a href="/">&lt Regresar</a>
     <h1>Ranking Interno del Taco Competitivo</h1>
-    <h1>Temporada Bistec</h1>
-    <div id="ranking"></div>
+    <hr>
+    <div id="ranking">
+        <h2>Temporada Bistec</h2>
+    </div>
+    <hr>
+    <div>
+        <h2>Calculadora de puntos</h2>
+        <div>
+            <label>Puntos apostados</label>
+            <input type="number" value=10 id="bet_points" min=5 max=100>
+        </div>
+        <div>
+            <label>Ganador</label>
+            <select id="winner_pos">
+                <option value=0.0>Posición</option>
+                <option value=0.1>1</option>
+                <option value=0.2>2</option>
+                <option value=0.3>3</option>
+                <option value=0.4>4</option>
+                <option value=0.5>5</option>
+                <option value=0.6>6</option>
+                <option value=0.7>7</option>
+                <option value=0.8>8</option>
+                <option value=0.9>9</option>
+                <option value=1.0>10</option>
+            </select>
+        </div>
+        
+        <div>
+            <label>Perdedor</label>
+            <select id="loser_pos">
+                <option value=0.0>Posición</option>
+                <option value=2.0>1</option>
+                <option value=1.8>2</option>
+                <option value=1.6>3</option>
+                <option value=1.4>4</option>
+                <option value=1.2>5</option>
+                <option value=1.0>6</option>
+                <option value=0.8>7</option>
+                <option value=0.6>8</option>
+                <option value=0.4>9</option>
+                <option value=0.2>10</option>
+            </select>
+        </div>
+
+        <div>
+            <br>
+            <input type="button" value="Calcular" id="compute_button">
+            <br>
+            <label id="winner_points"></label>
+            <br>
+            <label id="loser_points"></label>
+        </div>
+    </div>
     <hr>
     <strong><p>¿Quieres ver las puntuaciones de las fechas pasadas?</p></strong>
     <p>Haz click en la spreadsheet de acá abajo</p>

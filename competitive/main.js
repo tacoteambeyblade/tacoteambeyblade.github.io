@@ -1,5 +1,18 @@
 import BLADERS from "../data/bladers.json" with { type: "json"}
 
+function compute_battle(){
+    const bet_points    = document.getElementById("bet_points").value
+    const winner_pos    = document.getElementById("winner_pos").value
+    const loser_pos     = document.getElementById("loser_pos").value
+    const winner_multiplier = winner_pos*bet_points
+    const loser_multiplier  = loser_pos*bet_points
+    console.log(`Puntos apostados: ${bet_points}`)
+    console.log(`Ganador  + ${winner_multiplier} puntos`)
+    console.log(`Perdedor - ${loser_multiplier}  puntos`)
+    document.getElementById("winner_points").innerText = `Ganador  + ${winner_multiplier} puntos`
+    document.getElementById("loser_points").innerHTML = `Perdedor - ${loser_multiplier}  puntos`
+}
+
 function sortRanking(){
     // ... spread operator to not modify the original values
     // uses - due sort only uses positive and negative values not booleans
@@ -45,3 +58,6 @@ function sortRanking(){
 }
 
 sortRanking()
+
+const compute_button = document.getElementById("compute_button")
+compute_button.addEventListener("click", compute_battle)
