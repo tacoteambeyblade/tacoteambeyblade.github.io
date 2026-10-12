@@ -531,9 +531,9 @@
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
-                "M": "No",
-                "m": 0,
-                "d": 0
+                "M": "Octubre",
+                "m": 10,
+                "d": 15
             }
         }
     ]
