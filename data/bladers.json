@@ -505,8 +505,8 @@
         },
         {
             "names": [
-                "Fred",
-                "Parzival"
+                "fred",
+                "parzival"
             ],
             "is_taco": 0,
             "taco_name": "",
@@ -522,7 +522,7 @@
         },
         {
             "names": [
-                "Brayan"
+                "brayan"
             ],
             "is_taco": 0,
             "taco_name": "",
