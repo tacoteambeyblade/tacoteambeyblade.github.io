@@ -519,6 +519,22 @@
                 "m": 0,
                 "d": 0
             }
+        },
+        {
+            "names": [
+                "Brayan"
+            ],
+            "is_taco": 0,
+            "taco_name": "",
+            "score_tc": 0,
+            "score_tr": 0,
+            "score_tl": 0,
+            "score_tf": 0,
+            "birthday": {
+                "M": "No",
+                "m": 0,
+                "d": 0
+            }
         }
     ]
 }
