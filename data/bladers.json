@@ -8,7 +8,7 @@
             "is_taco": 1,
             "taco_name": "arrachera",
             "score_tc": 72,
-            "score_tr": 340,
+            "score_tr": 395,
             "score_tl": 76,
             "score_tf": 0,
             "birthday": {
@@ -25,7 +25,7 @@
             "is_taco": 1,
             "taco_name": "pastor negro",
             "score_tc": 100,
-            "score_tr": 318,
+            "score_tr": 366,
             "score_tl": 87,
             "score_tf": 0,
             "birthday": {
@@ -76,7 +76,7 @@
             "is_taco": 1,
             "taco_name": "ronin",
             "score_tc": 102,
-            "score_tr": 300,
+            "score_tr": 354,
             "score_tl": 98,
             "score_tf": 0,
             "birthday": {
@@ -92,7 +92,7 @@
             "is_taco": 1,
             "taco_name": "suaperro",
             "score_tc": 84,
-            "score_tr": 306,
+            "score_tr": 337,
             "score_tl": 72,
             "score_tf": 0,
             "birthday": {
@@ -146,7 +146,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 56,
+            "score_tr": 80,
             "score_tl": 22,
             "score_tf": 0,
             "birthday": {
@@ -227,7 +227,7 @@
             "is_taco": 1,
             "taco_name": "canasta",
             "score_tc": 92,
-            "score_tr": 320,
+            "score_tr": 347,
             "score_tl": 77,
             "score_tf": 0,
             "birthday": {
@@ -276,7 +276,7 @@
             "is_taco": 1,
             "taco_name": "cabeza",
             "score_tc": 92,
-            "score_tr": 111,
+            "score_tr": 144,
             "score_tl": 10,
             "score_tf": 0,
             "birthday": {
@@ -327,7 +327,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 120,
+            "score_tr": 143,
             "score_tl": 36,
             "score_tf": 0,
             "birthday": {
@@ -343,7 +343,7 @@
             "is_taco": 1,
             "taco_name": "longaniza",
             "score_tc": 50,
-            "score_tr": 253,
+            "score_tr": 284,
             "score_tl": 38,
             "score_tf": 0,
             "birthday": {
@@ -378,7 +378,7 @@
             "is_taco": 1,
             "taco_name": "Asada",
             "score_tc": 94,
-            "score_tr": 210,
+            "score_tr": 241,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -447,7 +447,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 210,
+            "score_tr": 256,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -495,7 +495,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 74,
+            "score_tr": 102,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
@@ -561,7 +561,7 @@
             "is_taco": 0,
             "taco_name": "",
             "score_tc": 0,
-            "score_tr": 28,
+            "score_tr": 47,
             "score_tl": 0,
             "score_tf": 0,
             "birthday": {
